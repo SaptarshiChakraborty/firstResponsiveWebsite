@@ -1,0 +1,37 @@
+<main id="main">
+ <h1 id=title>101st Airborne - Division </h1>
+  <p>The Division which saved North Easter europe from Nazi Occupation<p>
+  <figure id="img-div">
+    <img id="image"
+         src="https://upload.wikimedia.org/wikipedia/commons/3/38/101st_Airborne_Division_-_WW2_01.jpg"
+         alt="Badge of Airborne 1st division"
+         />
+<figcaption id="Caption">
+  101st Airborne Division holding a Nazi flag after capturing Normandy,France</figcaption>
+    </figure>
+  <section id="Tribute-info">
+    <h3 id="headline">Various Moments of their D-Day</h3>
+    <li><strong>Drop Zone Able</strong>-The paratroopers of the 101st Airborne Division jumped between 0048 and 0140 British Double Summer Time</li>
+    <li><strong>Drop Zone Charlie</strong>-The second wave, assigned to drop the 506th Parachute Infantry Regiment (PIR) on Drop Zone</li>
+   <li><strong>Drop Zone Dog</strong>-
+      The third wave also encountered severe flak, losing six aircraft</li>
+    <li><strong>Battle of the Bulge</strong>-
+      The Ardennes Offensive (16 December 1944 – 25 January 1945) was a major German offensive launched towards the end of World War II through the forested Ardennes Mountains region of Belgium</li>
+    <li><strong>Operation Market Garden</strong>-
+     On 17 September 1944, the 101st Airborne Division became part of XVIII Airborne Corps, under Major General Matthew Ridgway, part of the First Allied Airborne Army, commanded by Lieutenant General Lewis H. Brereton</li>
+    <blockquote 
+      cite="https://www.tracesofwar.com/sights/7732/Memorial-101st-Airborne-Division.htm"
+                >
+      <p> This memorial commemorates the 101st Airborne Division. It is located between the Bastogne Historical Centre and the Mardasson Memorial and it is donated by the city of Bastogne and its residents.</p>
+       
+   <cite>--City and Citizens of Bastogne,Belgium 
+     </blockquote>
+      
+      <h2>If you want to know more about the formation of the airborne unit watch Band of Brothers on his 
+        <a id="Tribute-Link"
+           href="https://en.wikipedia.org/wiki/Band_of_Brothers_(miniseries)"
+           target="__blank"
+           >Click here to know about Band of Brothers</a>
+      </h2>
+      </section>
+    </main>
